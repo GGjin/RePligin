@@ -1,0 +1,1 @@
+include ':app', ':replugin-host-lib', ':replugin-plugin-lib'
